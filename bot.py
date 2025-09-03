@@ -1,6 +1,6 @@
 import telegram
-‎from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
-‎import os
+from telegram.ext import Updater, CommandHandler, MessageHandler, Filters
+import os
 ‎
 ‎# আপনার বট টোকেন এখানে দিন
 ‎# আসল টোকেন সরাসরি কোডে না রেখে Environment Variable হিসেবে ব্যবহার করা ভালো
